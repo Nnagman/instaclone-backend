@@ -1,0 +1,19 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nnagman/instance-backend.git"
+  },
+  "keywords": [],
+  "author": "Nnagman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nnagman/instance-backend/issues"
+  },
+  "homepage": "https://github.com/Nnagman/instance-backend#readme"
+}
