@@ -2,3 +2,5 @@ npm i apollo-server graphql
 npm i --save-dev @babel/core
 npm i @babel/preset-env --save-dev
 npm i @babel/node --save-dev
+npm i @prisma/cli -D
+npx prisma init
