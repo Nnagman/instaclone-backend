@@ -9,3 +9,4 @@ npm i graphql-tools
 npm i dotenv
 
 npx prisma init
+npm i bcrypt
