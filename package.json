@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "nodemon --exec babel-node server"
+    "dev": "nodemon --exec babel-node server",
+    "migrate": "npx prisma migrate dev"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.5",
-    "@babel/preset-env": "^7.14.5"
+    "@babel/node": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "@prisma/client": "^2.24.1",
+    "prisma": "^2.24.1"
   }
 }
