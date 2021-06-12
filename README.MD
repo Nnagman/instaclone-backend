@@ -9,7 +9,7 @@ How to start?
 
 - [x] Create Account
 - [x] See Profile
-- [ ] Login
+- [X] Login
 - [ ] Edit Profile
   [ ] Change Avatar (Image Upload)
 - [ ] Follow User
