@@ -7,3 +7,5 @@ npx prisma init
 npx prisma migrate dev
 npm i graphql-tools
 npm i dotenv
+
+npx prisma init
