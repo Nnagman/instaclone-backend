@@ -1,9 +1,11 @@
 # Instaclone
 
 ## Instaclone Backend
+
 How to start?
+
 1. npm run dev
-2. 
+2.
 
 ## User:
 
@@ -12,8 +14,10 @@ How to start?
 - [X] Login
 - [X] Edit Profile
 - [X] Change Avatar (Image Upload)
-- [ ] Follow User
-- [ ] Unfollow User
+- [x] Follow User
+- [x] Unfollow User
+- [ ] See Followers and See Following w/ Pagination
+- [ ] Computed Fields
 - [ ] Search Users
 - [ ] See Followers
 - [ ] See Following
