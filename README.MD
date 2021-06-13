@@ -10,8 +10,8 @@ How to start?
 - [x] Create Account
 - [x] See Profile
 - [X] Login
-- [ ] Edit Profile
-  [ ] Change Avatar (Image Upload)
+- [X] Edit Profile
+- [X] Change Avatar (Image Upload)
 - [ ] Follow User
 - [ ] Unfollow User
 - [ ] Search Users
