@@ -18,8 +18,8 @@ How to start?
 - [x] Unfollow User
 - [x] See Followers w/ Pagination
 - [x] See Following w/ Pagination
-- [ ] Computed Fields
-- [ ] Search Users
+- [X] Computed Fields
+- [X] Search Users
 - [ ] See Followers
 - [ ] See Following
 
