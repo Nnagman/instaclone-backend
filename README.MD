@@ -20,13 +20,13 @@ How to start?
 - [x] See Following w/ Pagination
 - [X] Computed Fields
 - [X] Search Users
-- [ ] See Followers
-- [ ] See Following
+- [X] See Followers
+- [X] See Following
 
 ## Photos
 
-- [ ] Upload Photo (Parse #)
-- [ ] See Photo
+- [X] Upload Photo (Parse #)
+- [X] See Photo
 - [ ] See Hashtags
 - [ ] Search Photos
 - [ ] Edit Photo
