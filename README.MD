@@ -29,7 +29,7 @@ How to start?
 - [X] See Photo
 - [X] See Hashtag
 - [X] Search Photos
-- [ ] Edit Photo
+- [X ] Edit Photo
 - [ ] Like / Unlike Photo
 - [ ] See Photo Likes
 - [ ] See Feed
