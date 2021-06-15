@@ -13,9 +13,10 @@ export default {
                     },
                 },
             }),
+        likes: ({id}) => client.like.count({where: {photoId: id}}),
     },
     Hashtag: {
-        photos: ({ id }, { page }, { loggedInUser }) => {
+        photos: ({id}, {page}, {loggedInUser}) => {
             return client.hashtag
                 .findUnique({
                     where: {
@@ -24,7 +25,7 @@ export default {
                 })
                 .photos();
         },
-        totalPhotos: ({ id }) =>
+        totalPhotos: ({id}) =>
             client.photo.count({
                 where: {
                     hashtags: {

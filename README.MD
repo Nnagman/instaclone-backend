@@ -29,9 +29,9 @@ How to start?
 - [X] See Photo
 - [X] See Hashtag
 - [X] Search Photos
-- [X ] Edit Photo
-- [ ] Like / Unlike Photo
-- [ ] See Photo Likes
+- [X] Edit Photo
+- [X] Like / Unlike Photo
+- [X] See Photo Likes
 - [ ] See Feed
 
 ## Comments
