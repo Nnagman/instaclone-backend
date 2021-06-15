@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Nnagman/instance-backend#readme",
   "dependencies": {
     "@graphql-tools/url-loader": "^6.4.0",
+    "@paljs/plugins": "^3.3.3",
     "apollo-server": "^2.25.1",
     "apollo-server-express": "^2.25.1",
     "bcrypt": "^5.0.1",

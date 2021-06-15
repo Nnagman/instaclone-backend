@@ -34,12 +34,12 @@ How to start?
 - [X] See Photo Likes
 - [X] See Feed
 - [X] See Photo Comments
-- [ ] Is Mine (Delete Photo)
+- [x] Delete Photo
 
 ## Comments
 
 - [X] Comment on Photo
-- [ ] Delete Comment (Is Mine)
+- [X] Delete Comment
 - [ ] Edit Comment
 
 ## Extras
