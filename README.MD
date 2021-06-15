@@ -32,7 +32,7 @@ How to start?
 - [X] Edit Photo
 - [X] Like / Unlike Photo
 - [X] See Photo Likes
-- [ ] See Feed
+- [X] See Feed
 
 ## Comments
 
