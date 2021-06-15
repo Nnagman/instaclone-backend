@@ -1,6 +1,7 @@
 import client from "../../client";
 import {protectedResolver} from "../../users/users.utils";
 import {PrismaDelete} from "@paljs/plugins";
+import {delPhotoS3} from "../../shared/shared.utils";
 
 export default {
     Mutation: {
@@ -11,6 +12,7 @@ export default {
                 },
                 select: {
                     userId: true,
+                    file: true,
                 },
             });
             if (!photo) {
@@ -32,6 +34,7 @@ export default {
                     },
                     deleteParent: true,
                 });
+                await delPhotoS3(photo.file, "uploads");
                 return {
                     ok: true,
                 };

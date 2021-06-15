@@ -48,4 +48,4 @@ How to start?
 
 ## Extras
 
-- [ ] S3 Image Upload
+- [X] S3 Image Upload
