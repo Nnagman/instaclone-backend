@@ -33,14 +33,14 @@ How to start?
 - [X] Like / Unlike Photo
 - [X] See Photo Likes
 - [X] See Feed
-- [ ] See Photo Comments
+- [X] See Photo Comments
 - [ ] Is Mine (Delete Photo)
 
 ## Comments
 
 - [X] Comment on Photo
-- [ ] Edit Comment
 - [ ] Delete Comment (Is Mine)
+- [ ] Edit Comment
 
 ## Extras
 
