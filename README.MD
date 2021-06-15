@@ -27,8 +27,8 @@ How to start?
 
 - [X] Upload Photo (Parse #)
 - [X] See Photo
-- [ ] See Hashtags
-- [ ] Search Photos
+- [X] See Hashtag
+- [X] Search Photos
 - [ ] Edit Photo
 - [ ] Like / Unlike Photo
 - [ ] See Photo Likes
