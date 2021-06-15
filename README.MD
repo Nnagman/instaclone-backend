@@ -40,7 +40,11 @@ How to start?
 
 - [X] Comment on Photo
 - [X] Delete Comment
-- [ ] Edit Comment
+- [X] Edit Comment
+
+## Refactor
+
+- [ ] Mutation Responses
 
 ## Extras
 
