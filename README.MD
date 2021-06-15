@@ -33,9 +33,15 @@ How to start?
 - [X] Like / Unlike Photo
 - [X] See Photo Likes
 - [X] See Feed
+- [ ] See Photo Comments
+- [ ] Is Mine (Delete Photo)
 
 ## Comments
 
-- [ ] Comment on Photo
+- [X] Comment on Photo
 - [ ] Edit Comment
-- [ ] Delete Comment
+- [ ] Delete Comment (Is Mine)
+
+## Extras
+
+- [ ] S3 Image Upload
