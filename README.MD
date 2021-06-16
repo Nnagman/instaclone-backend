@@ -55,6 +55,6 @@ How to start?
 - [X] See Rooms
 - [X] Send Message (Create Room)
 - [X] See Room
-- [ ] Computed Fields
-- [ ] Send Message
+- [x] Computed Fields
+- [x] See (Read) Message
 - [ ] Realtime Messages
