@@ -57,4 +57,4 @@ How to start?
 - [X] See Room
 - [x] Computed Fields
 - [x] See (Read) Message
-- [ ] Realtime Messages
+- [x] Realtime Messages
