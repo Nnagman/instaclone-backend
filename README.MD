@@ -52,8 +52,9 @@ How to start?
 
 ## DMs
 
-- [x] See Room
-- [ ] Send Message (Create Room)
-- [ ] See Rooms
+- [X] See Rooms
+- [X] Send Message (Create Room)
+- [X] See Room
+- [ ] Computed Fields
 - [ ] Send Message
 - [ ] Realtime Messages
