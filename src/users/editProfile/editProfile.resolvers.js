@@ -8,7 +8,7 @@ const resolverFn = async (
     _,
     {firstName, lastName, username, email, password: newPassword, bio, avatar},
     {loggedInUser}
-) => {
+) => { 
     let avatarUrl = null;
     if (avatar) {
         avatarUrl = await uploadToS3(avatar, loggedInUser.id, "avatars");
